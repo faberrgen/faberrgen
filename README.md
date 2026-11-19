@@ -39,7 +39,17 @@ Our offices in Los Angeles provide you with a **small but cozy environment** to 
 
 We provide you with ready-to-go **physical space** and **set up business/legal infrastructure** common to technology startups in the West Coast scene. We furnish **technical/philosophical/business/legal support** to guide you through the process of very initial growth from a 1-2 person idea team to a baby chick of a new fangled company, ready to take wade into the big pond and take on the world 🌊🐥⛵.
 
-#### What's important to us about the project
+#### Faberrgén office
+
+![Faberrgén office facade](faberrgen-facade.jpg)
+
+Our physical location is at 1241 W 2nd St in Los Angeles, CA.  It is a small office building with a common area and kitchen and 3 additional rooms set up for various purposes: Fab Lab (equipment space with 3D printer, CNC mill, laser cutter and other tools), Conference Room (private meeting and chill out room) and Guest Room (space for preparation and staging by incubator members and guests).
+
+As a member of the incubator you may have pro-rated use of the office space depending on your level of participation (from visitor to co-worker to incubatee).  The common and kitchen area are for everyone to use within business + 4 hours.
+
+![Faberrgén office floorplan](faberrgen-office-floorplan.png)
+
+### What's important to us about the project
 
 * Faberrgén is not a typical SV-style incubator with a grind and make it big mindset 
 * work/life/play/vacay balance is of outmost importance to Faberrgén WoL (way-of-life)
