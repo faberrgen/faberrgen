@@ -25,13 +25,13 @@ Faberrgén seeks to **facilitate activities** that bring people/minds/ideas toge
 
 Activities and events help to **program the physical space and virtual space(s)** of the incubator and include popular/common/proven forms of interaction and **natural growth**:
 * discussions
-* workshops
-* walkabouts
 * reading groups
 * film screenings
+* workshops
 * performances
 * art/design/tech shows/demos
 * community gatherings
+* walkabouts
 
 #### How do we help you as a new lean startup?
 
@@ -43,9 +43,9 @@ We provide you with ready-to-go **physical space** and **set up business/legal i
 
 ![Faberrgén office facade](faberrgen-facade.jpg)
 
-Our physical location is at 1241 W 2nd St in Los Angeles, CA.  It is a small office building with a common area and kitchen and 3 additional rooms set up for various purposes: Fab Lab (equipment space with 3D printer, CNC mill, laser cutter and other tools), Conference Room (private meeting and chill out room) and Guest Room (space for preparation and staging by incubator members and guests).
+Our physical location is at **1241 W 2nd St** in **Los Angeles, CA**.  It is a small office building with a **common area** and kitchen and **3 additional rooms** set up for various purposes: **Fab Lab** (equipment space with 3D printer, CNC mill, laser cutter and other tools), **Conference Room** (private meeting and chill out room) and **Guest Room** (space for preparation and staging by incubator members and guests).
 
-As a member of the incubator you may have pro-rated use of the office space depending on your level of participation (from visitor to co-worker to incubatee).  The common and kitchen area are for everyone to use within business + 4 hours.
+As a member of the incubator you may have **pro-rated use of the office space** depending on your level of participation (from visitor to co-worker to incubatee).  The common and kitchen area are for everyone to use within **business + 4 hours**.
 
 ![Faberrgén office floorplan](faberrgen-office-floorplan.png)
 
